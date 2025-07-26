@@ -24,7 +24,10 @@
   body {
     font-family: "DM Sans", serif;
     font-optical-sizing: auto;
-    background: #030014;
+    background: url('/path-to-image/hero-red-bg.png') no-repeat center top;
+    background-size: cover;
+    background-color: #4c0c0c; /* fallback ако сликата не се вчита */
+    color: white;
   }
 
   h1 {
@@ -36,7 +39,7 @@
   }
 
   main {
-    @apply min-h-screen relative bg-primary;
+    @apply min-h-screen relative;
   }
 
   header {
@@ -89,7 +92,7 @@
   }
 
   & input {
-    @apply w-full bg-transparent py-2 sm:pr-10 pl-10 text-base text-yellow-400 placeholder-yellow-300 outline-none; /* текст и placeholder во топли жолто-портокалови нијанси */
+    @apply w-full bg-transparent py-2 sm:pr-10 pl-10 text-white placeholder-white outline-none;
   }
 }
 
@@ -103,7 +106,7 @@
   }
 
   .movie-card {
-    @apply bg-dark-100 p-5 rounded-2xl shadow-inner shadow-light-100/10;
+      @apply bg-[#2B1515] p-5 rounded-2xl shadow-inner shadow-[#FACC15]/10;
 
     & img {
       @apply rounded-lg h-auto w-full;
