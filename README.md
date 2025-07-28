@@ -2,12 +2,7 @@
   <br />
   <img src="public/readme/hero.png" alt="Project Banner" width="100%" height="400px" />
   <br />
-
-  <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-    <img src="public/readme/movie-card.png" alt="Movie Card View" style="max-width: 45%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-    <img src="public/readme/movie-detail.png" alt="Movie Detail View" style="max-width: 45%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-  </div>
-
+  
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
