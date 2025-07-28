@@ -1,16 +1,13 @@
 <div align="center">
-  <img src="public/readme/hero.png" alt="MovieWeb Banner" style="border-radius: 10px; max-width: 100%; height: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <br />
+<   img src="public/readme/hero.png" alt="Project Banner" width="100%" height="400px" />
+  <br />
   
-  <h1 align="center">🎬 MovieWeb</h1>
-  <p align="center">Discover, Search, and Explore Movies with Ease</p>
-
   <div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
-</div>
 
   <h3 align="center">A Movie Application</h3>
   
