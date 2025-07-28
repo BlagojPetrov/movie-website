@@ -2,7 +2,21 @@
   <br />
   <img src="public/readme/hero.png" alt="Project Banner" width="100%" height="400px" />
   <br />
-  
+
+  <!-- Нови слики убаво уредени -->
+  <div style="display: inline-flex; gap: 20px; justify-content: center; flex-wrap: wrap; max-width: 720px; margin: 20px auto;">
+    <img 
+      src="public/readme/movie-card.png" 
+      alt="Movie Card View" 
+      style="max-width: 320px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.25);" 
+    />
+    <img 
+      src="public/readme/movie-detail.png" 
+      alt="Movie Detail View" 
+      style="max-width: 320px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.25);" 
+    />
+  </div>
+
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
@@ -11,6 +25,7 @@
 
   <h3 align="center">A Movie Application</h3>
 </div>
+
 
 ## 📋 <a name="table">Table of Contents</a>
 
