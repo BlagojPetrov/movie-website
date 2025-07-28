@@ -105,6 +105,10 @@
     }
   }
 
+  .movie-details {
+    @apply bg-[#1A0D0D] p-3 rounded-xl shadow-lg mt-10 text-white;
+}
+
   .movie-card {
       @apply bg-[#2B1515] p-5 rounded-2xl shadow-inner shadow-[#FACC15]/10;
 
